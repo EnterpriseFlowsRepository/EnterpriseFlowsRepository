@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Bienvune sur Enterprise Flows Repository 
 
-You can use the [editor on GitHub](https://github.com/EnterpriseFlowsRepository/EnterpriseFlowsRepository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ce projet est un outils gérer les *flux des systèmes d'informations*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### En quoi Enterpise Flows Repository est-il utile ? 
 
-### Markdown
+# Pour les utilisateurs d'applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Pour les responsables et experts d'applications
 
-```markdown
-Syntax highlighted code block
+# Pour les Directeurs des Systèmes d'Information
 
-# Header 1
-## Header 2
-### Header 3
+### Comment participer ?
 
-- Bulleted
-- List
+Plusieurs types de participations s'offrent à vous:
 
-1. Numbered
-2. List
+1. Utiliser le produit et en faire un feed-back.
+Une partie "REX Utilisateurs" dans la documentation vous permet d'ajouter une page ! :-O
 
-**Bold** and _Italic_ and `Code` text
+2. Remonter les anomalies à l'équipe projet pour quelles soient prises en compte dès que possible.
+Les anomalies sont gérées [ICI](https://enterpriseflowsrepository.atlassian.net/browse/ISSUES).
 
-[Link](url) and ![Image](src)
-```
+### Supporter ou Sponsoriser son développement
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Pour apporter votre soutient financier à l'équipe de 'Middleware Editions' ainsi que les très nombreux contributeurs 
 
-### Jekyll Themes
+### Pas le temps d'installer l'application ?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnterpriseFlowsRepository/EnterpriseFlowsRepository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+'Middleware Editions' vous propose une offre cloud prêt à utiliser.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
