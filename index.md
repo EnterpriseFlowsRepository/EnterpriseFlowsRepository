@@ -1,8 +1,18 @@
 # Bienvenue sur Enterprise Flows Repository 
 
-Ce projet est un outils gérer les *flux des systèmes d'informations*.
+Ce projet est un outils gouverner les *flux des systèmes d'informations*.
+Il a pour voccation de:
+
+* référencer les flux d'informations
+* offrir une vision fonctionnelle aux échanges entre applications
+* faciliter le support technique d'intermédiation applicatif
+* alerter les utilisateurs concernés
+* réinjecter des messages dans les flux
+* proposer des rapports de gouvernance. 
 
 # En quoi Enterpise Flows Repository est-il utile ? 
+
+Dans les Systèmes d'Information modernes, les échanges d'information sont nombreux, pris en charge par des solutions de transports divers et qui fonctionnent à des rythmes différents.
 
 ## Pour les utilisateurs d'applications
 
@@ -27,4 +37,3 @@ Pour apporter votre soutient financier à l'équipe de 'Middleware Editions' ain
 # Pas le temps d'installer l'application ?
 
 'Middleware Editions' vous propose une offre cloud prêt à utiliser.
-

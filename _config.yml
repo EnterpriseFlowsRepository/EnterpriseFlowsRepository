@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: [Enterprise Flows Repository]
+description: [Une solution pour gouverner les flux de votre Système d'Informations.]
+
+github:
+  another_url: another value
