@@ -64,7 +64,7 @@ Enterprise Flows Repository porte une vision cohérente et pertinente du Systèm
 * Abstraire la complexité,
 * Urbaniser le SI.
 
-# Une présentation de ce projet
+# Présentation de ce projet
 
 ![Slide](images/2021-Présentation-EnterpriseFlowsRepository.png)
 
@@ -81,6 +81,11 @@ Une partie "REX Utilisateurs" dans la documentation vous permet d'ajouter une pa
 Les anomalies sont gérées sur [JIRA](https://enterpriseflowsrepository.atlassian.net/browse/ISSUES).
 
 *PS: Attention, les demandes de changement ne sont pas portées par GitHub*
+
+# Espaces documentaires
+
+Tous les espaces documentaires sont listés sur [Confluence](https://enterpriseflowsrepository.atlassian.net/wiki/spaces/WELCOME/overview).
+
 
 # Supporter ou Sponsoriser son développement
 
