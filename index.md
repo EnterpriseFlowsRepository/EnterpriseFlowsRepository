@@ -1,13 +1,25 @@
 # Bienvenue sur Enterprise Flows Repository 
 
-Ce projet est un outils gouverner les *flux des systèmes d'informations*.
+Ce projet est un outils de *gouvernance des flux* des systèmes d'informations.
+Cet outil est :
+
+1. Une centralisation des traces de flux / de transport des données
+2. Une exploitation par point de vue de ces traces:
+
+    * Utilisateur d'application,
+    * Responsable fonctionnel / d'une ou plusieurs applications,
+    * Equipe support de flux,
+    * Directeur de Systèmes d'Information,
+    * Architecte / Urbaniste.
+
 Il a pour voccation de:
 
-* référencer les flux d'informations
-* offrir une vision fonctionnelle aux échanges entre applications
-* faciliter le support technique d'intermédiation applicatif
-* alerter les utilisateurs concernés
-* réinjecter des messages dans les flux
+* consulter toute trace de transport de donnée,
+* référencer les flux d'informations,
+* offrir une vision fonctionnelle aux échanges entre applications,
+* faciliter le support technique d'intermédiation applicatif,
+* alerter les utilisateurs concernés,
+* réinjecter des messages dans les flux,
 * proposer des rapports de gouvernance. 
 
 # En quoi Enterpise Flows Repository est-il utile ? 
