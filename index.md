@@ -14,12 +14,11 @@ Cet outil est :
 
 Il a pour voccation de:
 
-* consulter toute trace de transport de donnée,
-* référencer les flux d'informations,
 * offrir une vision fonctionnelle aux échanges entre applications,
 * faciliter le support technique d'intermédiation applicatif,
 * alerter les utilisateurs concernés,
 * réinjecter des messages dans les flux,
+* référencer les flux d'informations,
 * proposer des rapports de gouvernance. 
 
 # En quoi Enterpise Flows Repository est-il utile ? 
