@@ -12,7 +12,7 @@ Cet outil est :
     * Directeur de Systèmes d'Information,
     * Architecte / Urbaniste.
 
-Il a pour voccation de:
+Il a pour vocation de:
 
 * offrir une vision fonctionnelle aux échanges entre applications,
 * faciliter le support technique d'intermédiation applicatif,
