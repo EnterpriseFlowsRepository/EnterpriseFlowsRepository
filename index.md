@@ -104,4 +104,6 @@ Pour apporter votre soutient financier à l'équipe ainsi que les très nombreux
 
 # Pas le temps d'installer l'application ?
 
-[Middleware Editions](https://www.middleware-editions.fr) vous propose une offre cloud ADAPTEE et ISOLEE.
+[Middleware Editions](https://www.middleware-editions.fr) vous PROPOSERA *courant 2021* une offre cloud ADAPTEE, ISOLEE et SECURISEE.
+
+Made by [Emmanuel LESNE](https://linkedin.com/in/emmanuellesne)
